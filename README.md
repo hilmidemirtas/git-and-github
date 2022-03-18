@@ -9,6 +9,8 @@ this repository for who wants to learn git and github
 
 > "**cd**" klasörün içerisine gireriz. 
 
+>"**clear**" ekranı temizler.
+
 >"**git config --list**" kullanıcı adımız ve mail adresimiizi içerir.
 
 >"**git init**" boş bir git klasörü oluştururuz. 
