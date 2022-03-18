@@ -7,11 +7,15 @@ this repository for who wants to learn git and github
 
 > "**ls**" bulunulan ortamdaki klasörleri sıralar. 
 
-> "**cd**" klasörün içerisine gireriz. 
+> "**cd**" klasörün içerisine gireriz.
+
+> "**cd ..**" bir üst klasöre çıkarız. 
 
 >"**clear**" ekranı temizler.
 
 >"**touch**" yeni bir klasör oluşturur. 
+
+>"**rm 'klsör adı'**" klösörü siler.
 
 >"**git config --list**" kullanıcı adımız ve mail adresimiizi içerir.
 
