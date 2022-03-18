@@ -11,6 +11,8 @@ this repository for who wants to learn git and github
 
 >"**clear**" ekranı temizler.
 
+>"**touch**" yeni bir klasör oluşturur. 
+
 >"**git config --list**" kullanıcı adımız ve mail adresimiizi içerir.
 
 >"**git init**" boş bir git klasörü oluştururuz. 
