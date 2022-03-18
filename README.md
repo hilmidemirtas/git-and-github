@@ -5,5 +5,5 @@ this repository for who wants to learn git and github
 
 > "ls" bulunulan ortamdaki klasörleri sıralar. 
 
-> "pwd" nerede/hangi klasörde olduğumuzu gösterir. 
+> "<strong>pwd</strong>" nerede/hangi klasörde olduğumuzu gösterir. 
 
