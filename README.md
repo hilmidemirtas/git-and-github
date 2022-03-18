@@ -14,3 +14,5 @@ this repository for who wants to learn git and github
 >"**git init**" boş bir git klasörü oluştururuz. 
 
 >"**git status**" çalışmamızın şu an ne durumda/statüde olduğunu gösterir.
+
+>"**git add .**" bütün dosyaları geçiş bölgesine gönderiyoruz.
