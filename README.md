@@ -3,7 +3,11 @@ this repository for who wants to learn git and github
 
 >some advice and documents for git and github
 
+> "**pwd**" nerede/hangi klasörde olduğumuzu gösterir. 
+
 > "**ls**" bulunulan ortamdaki klasörleri sıralar. 
 
-> "**pwd**" nerede/hangi klasörde olduğumuzu gösterir. 
+> "**cd**" klasörün içerisine gireriz. 
+
+
 
