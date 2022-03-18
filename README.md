@@ -30,3 +30,5 @@ this repository for who wants to learn git and github
 >"**git commit -m "mesaj"**" dosyaları git'e göndeririz.
 
 >"**git log -p -n**" sondan başlayrak n kadar değişiliğimi göster. 
+
+>"**git log --since=n""" n kadar süreden beri olan değişiklikler.
