@@ -16,3 +16,7 @@ this repository for who wants to learn git and github
 >"**git status**" çalışmamızın şu an ne durumda/statüde olduğunu gösterir.
 
 >"**git add .**" bütün dosyaları geçiş bölgesine gönderiyoruz.
+
+>"**git commit -m "mesaj"**" dosyaları git'e göndeririz.
+
+>
