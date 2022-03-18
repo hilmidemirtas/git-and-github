@@ -25,6 +25,8 @@ this repository for who wants to learn git and github
 
 >"**git add .**" bütün dosyaları geçiş bölgesine gönderiyoruz.
 
+>"**git add -A**" yaptığımız değişiklikleri geçiş bölgesine gönderiyoruz.
+
 >"**git commit -m "mesaj"**" dosyaları git'e göndeririz.
 
 >
