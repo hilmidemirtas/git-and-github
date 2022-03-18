@@ -12,3 +12,5 @@ this repository for who wants to learn git and github
 >"**git config --list**" kullanıcı adımız ve mail adresimiizi içerir.
 
 >"**git init**" boş bir git klasörü oluştururuz. 
+
+>"**git status**" çalışmamızın şu an ne durumda/statüde olduğunu gösterir.
