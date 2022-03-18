@@ -7,3 +7,4 @@ console.log("another try")
 this is a comment */
 
 console.log("hilmi")
+console.log("ege")
