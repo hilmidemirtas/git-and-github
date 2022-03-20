@@ -15,7 +15,7 @@ this repository for who wants to learn git and github
 
 >"**touch**" yeni bir klasör oluşturur. 
 
->"**rm 'klsör adı'**" klösörü siler.
+>"**rm 'klasör adı'**" klösörü siler.
 
 >"**git config --list**" kullanıcı adımız ve mail adresimiizi içerir.
 
@@ -23,7 +23,7 @@ this repository for who wants to learn git and github
 
 >"**git status**" çalışmamızın şu an ne durumda/statüde olduğunu gösterir.
 
->"**git add .**" bütün dosyaları geçiş bölgesine gönderiyoruz.
+>"**git add .**" bütün dosyaları geçiş bölgesine gönderiyoruz. ($ git add .  veya  $ git add *  veya   $ git add -A .)
 
 >"**git add -A**" yaptığımız değişiklikleri geçiş bölgesine gönderiyoruz.
 
