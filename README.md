@@ -29,7 +29,7 @@ this repository for who wants to learn git and github
 
 >"**git commit -m "mesaj"**" dosyaları git'e göndeririz.
 
->"**git log --oneline**" değişilikleri kısa halde gösterir.
+>"**git log --oneline**" değişiklikleri kısa halde gösterir.
 
 >"**git log -p -n**" sondan başlayrak n kadar değişiliğimi göster. 
 
