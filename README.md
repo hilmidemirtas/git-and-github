@@ -37,6 +37,6 @@ this repository for who wants to learn git and github
 
 ## git-and-github Clone
 
-> Copy Clone "git clone <url>", 
+> Copy Clone "git clone -url-", 
 
 > ***[`Source`](https://app.patika.dev/moduller/frontend-web-gelistirme/git-bash-ile-git-temel-komutlari)***
